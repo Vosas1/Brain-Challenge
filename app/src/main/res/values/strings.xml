@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VictorOsaikhuwuomwan_COMP304_001_Hands_On_Test_S24</string>
+    <!-- New string array for y coordinates -->
+    <string-array name="y_coordinates">
+        <item>50</item>
+        <item>30</item>
+        <item>70</item>
+        <item>20</item>
+        <item>60</item>
+        <item>40</item>
+        <item>80</item>
+    </string-array>
+</resources>
